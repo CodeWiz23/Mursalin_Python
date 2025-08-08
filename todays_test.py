@@ -1,3 +1,3 @@
 x = " Python is the Best "
-print =x.strip
+print =x.strip()
 
